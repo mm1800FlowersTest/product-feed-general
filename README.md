@@ -1,2 +1,2 @@
-# product-feed-rabbitmq
-Product Feed configurations for RabbitMQ
+# product-feed-general
+Product Feed configurations for general settings such as RabbitMQ, Splunk, 
